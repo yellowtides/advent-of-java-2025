@@ -1,0 +1,20 @@
+package common.types;
+
+import java.util.Arrays;
+import java.util.Optional;
+
+/**
+    An enum of days currently solved.
+ */
+public enum Day {
+    DAY_01(1);
+
+    public final int ordinal;
+    Day(int ordinal) {
+        this.ordinal = ordinal;
+    }
+
+    public static Optional<Day> valueOf(int ordinal) {
+        return Arrays.stream(Day.values()).filter(day -> day.ordinal == ordinal).findFirst();
+    }
+}
