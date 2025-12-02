@@ -1,8 +1,8 @@
-package day_01;
+package day01;
 
 import common.solvers.AbstractSolver;
-import day_01.Day01IntermediateType.Action;
-import day_01.Day01IntermediateType.Direction;
+import day01.Day01IntermediateType.Action;
+import day01.Day01IntermediateType.Direction;
 
 import java.util.List;
 

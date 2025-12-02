@@ -1,8 +1,8 @@
-package day_01;
+package day01;
 
 import common.parsers.AbstractParser;
-import day_01.Day01IntermediateType.Direction;
-import day_01.Day01IntermediateType.Action;
+import day01.Day01IntermediateType.Direction;
+import day01.Day01IntermediateType.Action;
 
 import java.util.List;
 import java.util.regex.Pattern;

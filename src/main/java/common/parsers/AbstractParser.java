@@ -12,7 +12,7 @@ public abstract class AbstractParser<IT> implements ParserInterface<IT> {
 
     abstract public IT parseDayInput(List<String> lines);
     public IT parseDayInput(Day day) throws IOException {
-        String dayBit = "day_" + String.format("%02d", day.ordinal);
+        String dayBit = "day" + String.format("%02d", day.ordinal);
         Path filePath = Paths.get("src", "main", "java", dayBit, "input.txt");
         List<String> lines = Files.readAllLines(filePath);
         return parseDayInput(lines);

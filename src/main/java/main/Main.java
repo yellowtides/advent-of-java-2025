@@ -3,8 +3,10 @@ package main;
 import common.composer.Composer;
 import common.types.Day;
 import common.types.Solution;
-import day_01.Day01Parser;
-import day_01.Day01Solver;
+import day01.Day01Parser;
+import day01.Day01Solver;
+import day02.Day02Parser;
+import day02.Day02Solver;
 import jdk.jshell.spi.ExecutionControl;
 
 import java.io.IOException;
@@ -19,7 +21,8 @@ public class Main {
      * Add your composer here after implementing a day.
      */
     private static final List<Composer<?>> COMPOSERS = List.of(
-        new Composer<>(Day.DAY_01, new Day01Parser(), new Day01Solver())
+        new Composer<>(Day.DAY_01, new Day01Parser(), new Day01Solver()),
+        new Composer<>(Day.DAY_02, new Day02Parser(), new Day02Solver())
     );
 
     private static Composer<?> composerFor(Day day) throws ExecutionControl.NotImplementedException {

@@ -19,5 +19,5 @@ To add a new day (let's say, 42):
 4. Under the package, add implementations of:
    * `AbstractParser`, responsible for parsing `input.txt` to your intermediate type.
    * `AbstractSolver`, responsible for transforming the intermediate type to solutions.
-   * See `/src/main/java/day_01` for example implementations.
+   * See `/src/main/java/day01` for example implementations.
 5. Finally, join your implementations by instantiating them inside of the `COMPOSERS` list in `/src/main/java/main/Main.java`.

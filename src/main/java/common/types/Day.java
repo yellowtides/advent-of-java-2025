@@ -7,7 +7,8 @@ import java.util.Optional;
     An enum of days currently solved.
  */
 public enum Day {
-    DAY_01(1);
+    DAY_01(1),
+    DAY_02(2);
 
     public final int ordinal;
     Day(int ordinal) {
