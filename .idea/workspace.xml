@@ -5,10 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="82870957-6ee1-4d99-9ff3-3bbc0caa0d92" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/day03/Day03IntermediateType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/day03/Day03Parser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/day03/Day03Solver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/day03/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/day04/Cell.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/day04/Day04IntermediateType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/day04/Day04Parser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/day04/Day04Solver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/day04/Layout.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/day04/input.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/common/types/Day.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/common/types/Day.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/main/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/main/Main.java" afterDir="false" />
@@ -87,8 +89,12 @@
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="day04" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/main/java/day03" />
+      <recent name="$PROJECT_DIR$/src/main/java/" />
       <recent name="$PROJECT_DIR$/src/main/java/day02" />
       <recent name="$PROJECT_DIR$/src/main/java/parsers" />
     </key>

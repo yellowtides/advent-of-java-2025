@@ -9,7 +9,8 @@ import java.util.Optional;
 public enum Day {
     DAY_01(1),
     DAY_02(2),
-    DAY_03(3);
+    DAY_03(3),
+    DAY_04(4);
 
     public final int ordinal;
     Day(int ordinal) {
