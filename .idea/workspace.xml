@@ -5,12 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="82870957-6ee1-4d99-9ff3-3bbc0caa0d92" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/day05/Day05IntermediateType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/day05/Day05Parser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/day05/Day05Solver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/day05/Range.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/day05/RangeFinder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/day05/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/day06/Day06IntermediateType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/day06/Day06Parser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/day06/Day06Solver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/day06/Equation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/day06/ProblemSheet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/day06/input.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/common/types/Day.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/common/types/Day.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/main/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/main/Main.java" afterDir="false" />
@@ -50,6 +50,7 @@
       <list>
         <option value="Interface" />
         <option value="Record" />
+        <option value="Enum" />
         <option value="Class" />
       </list>
     </option>
