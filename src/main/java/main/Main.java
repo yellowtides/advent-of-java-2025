@@ -17,6 +17,8 @@ import day06.Day06Parser;
 import day06.Day06Solver;
 import day07.Day07Parser;
 import day07.Day07Solver;
+import day08.Day08Parser;
+import day08.Day08Solver;
 import jdk.jshell.spi.ExecutionControl;
 
 import java.io.IOException;
@@ -37,7 +39,8 @@ public class Main {
         new Composer<>(Day.DAY_04, new Day04Parser(), new Day04Solver()),
         new Composer<>(Day.DAY_05, new Day05Parser(), new Day05Solver()),
         new Composer<>(Day.DAY_06, new Day06Parser(), new Day06Solver()),
-        new Composer<>(Day.DAY_07, new Day07Parser(), new Day07Solver())
+        new Composer<>(Day.DAY_07, new Day07Parser(), new Day07Solver()),
+        new Composer<>(Day.DAY_08, new Day08Parser(), new Day08Solver())
     );
 
     private static Composer<?> composerFor(Day day) throws ExecutionControl.NotImplementedException {

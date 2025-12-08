@@ -5,14 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="82870957-6ee1-4d99-9ff3-3bbc0caa0d92" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/day07/Day07IntermediateType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/day07/Day07Parser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/day07/Day07Solver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/day07/ManifoldDiagram.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/day07/ManifoldDiagramBeamPropagator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/day07/ManifoldDiagramCell.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/day07/ManifoldDiagramCellType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/day07/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/day08/Day08IntermediateType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/day08/Day08Parser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/day08/Day08Solver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/day08/Line.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/day08/Point.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/day08/Space.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/day08/input.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/common/types/Day.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/common/types/Day.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/main/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/main/Main.java" afterDir="false" />
@@ -84,23 +83,24 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/Users/yellowtides/IdeaProjects/aoc2025/src/main/java/day07",
-    "project.structure.last.edited": "Modules",
+    "last_opened_file_path": "/Users/yellowtides/IdeaProjects/aoc2025/src/main/java/day08",
+    "project.structure.last.edited": "Global Libraries",
     "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
     "settings.editor.selected.configurable": "reference.settingsdialog.project.gradle"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
+      <recent name="day08" />
       <recent name="day04" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/day08" />
       <recent name="$PROJECT_DIR$/src/main/java/day07" />
       <recent name="$PROJECT_DIR$/src/main/java/day05" />
       <recent name="$PROJECT_DIR$/src/main/java/day03" />
       <recent name="$PROJECT_DIR$/src/main/java/" />
-      <recent name="$PROJECT_DIR$/src/main/java/day02" />
     </key>
   </component>
   <component name="RunManager" selected="Application.Main">

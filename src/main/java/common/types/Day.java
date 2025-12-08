@@ -13,7 +13,8 @@ public enum Day {
     DAY_04(4),
     DAY_05(5),
     DAY_06(6),
-    DAY_07(7);
+    DAY_07(7),
+    DAY_08(8);
 
     public final int ordinal;
     Day(int ordinal) {
